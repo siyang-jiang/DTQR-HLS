@@ -201,6 +201,10 @@ int main()
 			A1_in = A1_24;
 			A2_in = A2_24;
 			break;
+		case 32:
+			A1_in = A1_32;
+			A2_in = A2_32;
+			break;
 		default: 
         	cout<<"error size"<<endl;
         	break;
