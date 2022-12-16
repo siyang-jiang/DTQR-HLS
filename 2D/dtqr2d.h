@@ -4,7 +4,7 @@
 #include "hls_math.h"
 #include "ap_fixed.h"
 #include "ap_int.h"
-#define COLS 32
+#define COLS 12
 #define BUFFER 2
 #define ROWS 2 * COLS
 #define LEN (COLS + 1) * COLS / 2
@@ -15,17 +15,17 @@
 
 using namespace hls;
 
-//typedef ap_fixed<14,2,AP_RND_CONV> fixed_cs;
-//typedef ap_ufixed<26,1,AP_RND_CONV> fixed_cs_mag;
-//typedef ap_fixed<16,10,AP_RND_CONV> MATRIX_T;
-//typedef ap_ufixed<23,18> fixed_double;
-//typedef ap_ufixed<16,10> fixed_u;
+typedef ap_fixed<14,2,AP_RND_CONV> fixed_cs;
+typedef ap_ufixed<26,1,AP_RND_CONV> fixed_cs_mag;
+typedef ap_fixed<16,10,AP_RND_CONV> MATRIX_T;
+typedef ap_ufixed<23,18> fixed_double;
+typedef ap_ufixed<16,10> fixed_u;
 
-typedef float fixed_cs;
-typedef float fixed_cs_mag;
-typedef float MATRIX_T;
-typedef float fixed_double;
-typedef float fixed_u;
+//typedef float fixed_cs;
+//typedef float fixed_cs_mag;
+//typedef float MATRIX_T;
+//typedef float fixed_double;
+//typedef float fixed_u;
 
 typedef ap_uint<10> large_int;
 typedef ap_uint<6> medium_int;
