@@ -13,3 +13,14 @@ Please Cite
   organization={IEEE}
 }
 ```
+
+```
+@inproceedings{fang2022dual,
+  title={Dual-Triangular QR Decomposition with Global Acceleration and Partially Q-Rotation Skipping},
+  author={Fang, Rui and Jiang, Siyang and Chen, Hsi-Wen and Ding, Wei and Chen, Ming-Syan},
+  booktitle={2022 International Conference on Field-Programmable Technology (ICFPT)},
+  pages={1--4},
+  year={2022},
+  organization={IEEE}
+}
+```
