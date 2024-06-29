@@ -1,7 +1,11 @@
 # DTQR-HLS
 
+### News
 [[Paper FPT 21](https://ieeexplore.ieee.org/document/9609814)]
 [[Paper FPT 22](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9974402)]
+
+- **2022-09-10** 2D DTQR accelerator is accepted by **ICFPT 2022**🔥
+- **2021-09-10** 1D DTQR accelerator is accepted by **ICFPT 2021**🔥
 
 
 ### Citation
