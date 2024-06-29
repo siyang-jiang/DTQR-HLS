@@ -1,9 +1,10 @@
 # DTQR-HLS
-This is the offitional Repo the Papers which are publised on FPT21' FPT22'.
-- Paper: Dual-Triangular QR Decomposition with Global Acceleration and Partially Q-Rotation Skipping (ICFPT 22')
-- Paper: Dataflow Systolic Array Implementations of Exploring Dual-Triangular Structure in QR Decomposition Using High-Level Synthesis (ICFPT 21')
 
-Please Cite
+[[Paper FPT 21](https://ieeexplore.ieee.org/document/9609814)]
+[[Paper FPT 22](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9974402)]
+
+
+### Citation
 ```
 @inproceedings{jiang2021dataflow,
   title={Dataflow systolic array implementations of exploring dual-triangular structure in QR decomposition using high-level synthesis},
